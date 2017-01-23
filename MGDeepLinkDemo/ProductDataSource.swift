@@ -12,7 +12,7 @@ class ProductDataSource {
     
     private let products = [
         Product(id: "iphone", name: "iPhone 7", price: 600),
-        Product(id: "ipad", name: "iPad Pro", price: 400),
+        Product(id: "ipad", name: "iPad Air", price: 400),
         Product(id: "macbook", name: "Macbook Pro", price: 1500),
         ]
 
